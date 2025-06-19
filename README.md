@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm @natashaa224/ Natasha N Bhandari</h1>
 <h3 align="center">Merging Software Precision with Innovation</h3>
 
-- 🔭 I’m currently working on **SamVaad**
+- 🔭 Interests **AI/ML, Data Science, Deep Learning, Embedded Systems, and Robotics**
 
 - 🌱 I’m currently learning **Jetson Nano, Jetson Orin (Edge AI deployment)**
 
 - 💬 Ask me about **Engineering student passionate about AI**
 
 - 📫 How to reach me **nnatashabhandari@gmail.com**
-
-- 😄 Pronouns: She/Her
 
 - ⚡ Fun fact **I build with Python, but I dream in circuits and control loops. 🤖🔧**
 
@@ -24,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natashaa224&show_icons=true&locale=en&layout=compact" alt="natashaa224" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&locale=en" alt="natashaa224" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natashaa224&" alt="natashaa224" /></p>
