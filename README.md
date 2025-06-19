@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **nnatashabhandari@gmail.com**
 
+- 😄 Pronouns: She/Her
+
 - ⚡ Fun fact **I build with Python, but I dream in circuits and control loops. 🤖🔧**
 
 <h3 align="left">Connect with me:</h3>
