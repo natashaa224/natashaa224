@@ -57,9 +57,10 @@
 <h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
 <div align = "center"> 
-<p align="center">
-  [![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)](https://github.com/natashaa224)
-</p>
+
+  [![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)](https://github.com/natashaa224) ![](
+  [![Natasha's Streak Stats](https://nirzak-streak-stats.vercel.app/?user=natashaa224&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)](https://github.com/natashaa224)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin-Solano&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)  ![](https://nirzak-streak-stats.vercel.app/?user=Benjamin-Solano&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benjamin-Solano&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
