@@ -7,7 +7,7 @@
   <a href="https://codeforces.com/profile/natashanb?csrf_token=4d12d9e80f71dcf7ced95eed38a726a1"_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/glorfindell" target="_blank">
+  <a href="https://www.codechef.com/users/natashanb" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
