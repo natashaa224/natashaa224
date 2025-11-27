@@ -13,11 +13,7 @@
   <a href="https://leetcode.com/u/natashanb/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
-  </a>
 </p>
-
 
 <br>
 
