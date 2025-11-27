@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/natasha-n-bhandari-a985492a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=whit" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
+  <a href="https://codeforces.com/profile/natashanb?csrf_token=4d12d9e80f71dcf7ced95eed38a726a1"_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/glorfindell" target="_blank">
