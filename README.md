@@ -50,9 +50,6 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-<br/>
-<br/>
-
 <h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
 <div align="center">
