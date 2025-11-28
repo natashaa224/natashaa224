@@ -18,7 +18,7 @@
 <br>
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me </em></h2>
-<img src="https://i.pinimg.com/originals/0c/7f/9f/0c7f9f654d4df3a680a3d1fdb04c0809.gif" width="250" align="right" style="margin-left: 10px;" />
+<img src="https://i.pinimg.com/originals/0c/7f/9f/0c7f9f654d4df3a680a3d1fdb04c0809.gif" width="200" align="right" style="margin-left: 10px;" />
 <br/>
 
 <p>
