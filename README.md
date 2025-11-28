@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/natasha-n-bhandari-a985492a1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/natashanb?csrf_token=4d12d9e80f71dcf7ced95eed38a726a1"_blank">
+  <a href="https://codeforces.com/profile/natashanb?csrf_token=4d12d9e80f71dcf7ced95eed38a726a1" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.codechef.com/users/natashanb" target="_blank">
@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me </em></h2>
 <img src="https://i.pinimg.com/originals/0c/7f/9f/0c7f9f654d4df3a680a3d1fdb04c0809.gif" width="250" align="right" style="margin-left: 10px;" />
 <br/>
 
@@ -26,8 +26,8 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Alva's Institute of Engineering Technology (AIET) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> 3RD year undergrad student </b></em><br/>
+    <img src="/imgs/img3.png" width="15"/> <em><b> Studying at the Alva's Institute of Engineering Technology (AIET) </b></em> <br/>
+    <img src="/imgs/img4.png" width="15"/> <em><b> 3RD year undergrad student </b></em><br/>
 </p>
 
 <br/>
@@ -53,14 +53,14 @@
 <br/>
 <br/>
 
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<h2 align="center"> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
 
-<div align = "center"> 
+<div align="center">
 
-  ![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350) ![](https://nirzak-streak-stats.vercel.app/?user=natashaa224&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+  ![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+  ![](https://nirzak-streak-stats.vercel.app/?user=natashaa224&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
+  
+  <br/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=natashaa224&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natashaa224&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/> 
 </div>
