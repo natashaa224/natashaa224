@@ -26,7 +26,7 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Alva's Institute of Engineering Technolgy (AIET) </b></em> <br/>
+   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the Alva's Institute of Engineering Technology (AIET) </b></em> <br/>
    <img src="/imgs/img4.png" width="15"/>   <em><b> 3RD year undergrad student </b></em><br/>
 </p>
 
