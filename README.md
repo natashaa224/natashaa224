@@ -22,7 +22,8 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Natasha N Bhandari </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving. Kicking off with some fun projects to sharpen my skills and to put in practice the knowledge I have about Python, MongoDB, Flask and more. 
+  Hello There! <em><b> I'm Natasha N Bhandari </b></em>, a Systems Engineer student. 
+  I enjoy learning new technologies and problem solving. Kicking off with some fun projects to sharpen my skills and to put in practice the knowledge I have about Python, MongoDB, Flask and more. 
 <br/>
 
 <p align="center">
