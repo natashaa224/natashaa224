@@ -58,7 +58,7 @@
 
 <div align="center">
 
-  ![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
+  ![](https://github-readme-stats.vercel.app/api?username=natashaa224&show_icons=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff&card_width=350)
   ![](https://nirzak-streak-stats.vercel.app/?user=natashaa224&theme=dark&background=000000&hide_border=false&sideNums=ffffff&currStreakNum=ffffff&fire=ffffff&ring=ffffff&stroke=fffffff&currStreakLabel=ffffff&card_width=401)
   
   <br/>
