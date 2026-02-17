@@ -69,8 +69,6 @@ Contributed to team-based engineering projects using GitHub, implementing pull r
   alt="GitHub Streak"
 />
 
-<h3>Contribution Graph</h3>
-
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=natashaa224&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Natasha's%20Contribution%20Graph"
   alt="Activity Graph"
@@ -78,5 +76,4 @@ Contributed to team-based engineering projects using GitHub, implementing pull r
 />
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natashaa224&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/> 
 </div>
