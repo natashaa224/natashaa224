@@ -30,22 +30,35 @@
 <br/>
 <br/>
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+<div align="center">  
+
+<h3>Core Technologies</h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-000000?style=flat&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=flat&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
+
+<br/>
+
+<h3>Frameworks & Libraries</h3>
+
+![React](https://img.shields.io/badge/REACT-000000?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/VITE-000000?style=flat&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/REDUX-000000?style=flat&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_QUERY-000000?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/ZUSTAND-000000?style=flat&logo=react&logoColor=white)
+
+<br/>
+
+<h3>Team Collaboration</h3>
+
+Experienced in team development using **GitHub**, pull requests, code reviews, and structured workflows.
+
+</div>
 
 <br/>
 <br/>
