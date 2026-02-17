@@ -30,18 +30,20 @@
 
 <h3>Core Technologies</h3>
 
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-000000?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-black?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-black?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-black?style=flat&logo=krita&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia&logoColor=white)
 
 <h3>Frameworks & Libraries</h3>
 
