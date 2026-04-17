@@ -30,30 +30,35 @@
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 <div align="center">  
 
+<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+<div align="center">  
+
 <h3>Core Technologies</h3>
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=flat&logo=javascript&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity&logoColor=white)
+![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-black?style=flat&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-black?style=flat&logo=mysql&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-black?style=flat&logo=docker&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat&logo=ubuntu&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-black?style=flat&logo=figma&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-black?style=flat&logo=krita&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-black?style=flat&logo=endeavouros&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-black?style=flat&logo=nvidia&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-black?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat&logo=powerbi&logoColor=white)
 
 <h3>Frameworks & Libraries</h3>
 
-![Django](https://img.shields.io/badge/Django-black?style=flat&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-black?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-black?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-black?style=flat)
+![NumPy](https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-black?style=flat&logo=scipy&logoColor=white)
 
 <h3>Team Collaboration</h3>
 
