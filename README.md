@@ -30,9 +30,6 @@
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
 <div align="center">  
 
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
-<div align="center">  
-
 <h3>Core Technologies</h3>
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
