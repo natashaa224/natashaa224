@@ -68,13 +68,6 @@ Contributed to team-based engineering projects using GitHub, implementing pull r
 
 <div align="center">
 
- <h3>Contribution Streak</h3>
-
-<img 
-  src="https://streak-stats.demolab.com?user=natashaa224&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&stroke=ffffff"
-  alt="GitHub Streak"
-/>
-
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=natashaa224&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=ffffff&area=true&hide_border=true&custom_title=Natasha's%20Contribution%20Graph"
   alt="Activity Graph"
