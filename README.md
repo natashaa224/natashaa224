@@ -1,7 +1,7 @@
 <img src = "Github.jpg"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/natasha-n-bhandari-a985492a1" target="_blank">
+  <a href="https://www.linkedin.com/in/natasha-bhandari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/natashanb/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
@@ -17,7 +17,7 @@
 
 <p align="center">
   Hello There! <em><b> I'm Natasha N Bhandari </b></em>, a Systems Engineer student.<br/>
-  I enjoy learning new technologies and problem solving. Kicking off with some fun projects to sharpen my skills and to put in practice the knowledge I have about Python, MongoDB, Flask and more. 
+  I enjoy learning new technologies and problem solving. Kicking off with some fun projects to sharpen my skills and to put in practice the little knowledge I have about python, simulation and more. 
 <br/>
 
 <p align="center">
