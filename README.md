@@ -29,6 +29,11 @@
 <h3>Core Technologies</h3>
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-black?style=flat&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-black?style=flat)
+
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python&logoColor=white)
 ![Jetson Nano](https://img.shields.io/badge/Jetson%20Nano-black?style=flat&logo=nvidia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-black?style=flat&logo=raspberrypi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-black?style=flat&logo=docker&logoColor=white)
